@@ -41,7 +41,9 @@ Ordem / Lógica de utilização do site:
     Para dispositivos menores, a logo e os botões de cadastro [notícias / categorias] ficam escondidos dentro do menu hambúrguer a esquerda, porém o passo a passo é o mesmo!!!
 
 
-Resultados dos testes Unitários usando o phpunit e composer. ->
+Resultados dos testes Unitários usando o phpunit  e composer. ->
+![resultado_testesUnitarios_siteNoticias](https://github.com/user-attachments/assets/fcb4f63b-b9c1-4c40-b984-174191fef91c)
+
     
 
-![resultado_testesUnitarios_siteNoticias](https://github.com/user-attachments/assets/a433ea71-8ca0-48db-ab36-5dcc900d4a10)
+
