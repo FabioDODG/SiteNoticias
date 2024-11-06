@@ -1,0 +1,19 @@
+{
+    "name": "fabio/noticias",
+    "description": "um projeto teste da indoor",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Fabio\\Noticias\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Fábio Damico",
+            "email": "fabiodamicogomes@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "10"
+    }
+}
